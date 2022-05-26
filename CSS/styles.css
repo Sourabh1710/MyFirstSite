@@ -131,6 +131,7 @@ hr {
   font-size: 30px;
   margin: 100px auto auto auto;
   padding-left: 300px;
+  position: relative;
 }
 
 .skill-row {
