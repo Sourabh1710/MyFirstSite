@@ -2,7 +2,7 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  background-color: #E5F9F5;
+  background-color: #23171700;
 }
 
 h1 {
@@ -50,7 +50,7 @@ hr {
 }
 
 .Topcontainer {
-  background-color: #c1e8e1;
+  background-color: #1d248d;
   position: relative;
   padding-top: 10%;
 }
@@ -65,7 +65,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #1d248d;
   padding: 50px 0 20px;
 }
 
